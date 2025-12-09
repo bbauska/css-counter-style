@@ -1,3 +1,6 @@
+/**
+  * js/scripts.js 
+  */
 (function () {
     var $styleSelect = document.querySelector('#style-select'),
         $demoList = document.querySelector('#demo-list'),
